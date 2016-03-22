@@ -3,3 +3,7 @@ The data in FpetWasp_Data.csv are derived from syconia (enclosed inflorescences)
 The file FpetWasp_Analysis.R recreates the entire analysis of Duthie and Nason (2016) in R, including analysis of the appendix, using the file `FpetWasp_Data.csv'. It also recreates all figures used in the manuscript. More detailed explanations are included in the comments of this file.
 
 Duthie, A. B., & Nason, J. D. (2016). Plant connectivity underlies plant-pollinator-exploiter distributions in Ficus petiolaris and associated pollinating and non-pollinating fig wasps. Oikos, In press. doi:10.1111/oik.02629 < http://onlinelibrary.wiley.com/doi/10.1111/oik.02905/abstract >
+
+Both of these files are also available on Dryad Digital Repository: http://datadryad.org/resource/doi:10.5061/dryad.04416
+
+Duthie A, Nason JD (2016) Data from: Plant connectivity underlies plant-pollinator-exploiter distributions in Ficus petiolaris and associated pollinating and non-pollinating fig wasps. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.04416 
